@@ -5,7 +5,6 @@ android_app_import {
 	name: "Gcam",
 	owner: "xiaomi",
 	apk: "app/Gcam.apk",
-	overrides: ["Camera2","GCamGOPrebuilt","GCamGOPrebuilt-V2","Snap"],
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
