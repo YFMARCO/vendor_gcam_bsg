@@ -2,9 +2,9 @@ soong_namespace {
 }
 
 android_app_import {
-	name: "Gcam",
+	name: "camera_mgc",
 	owner: "xiaomi",
-	apk: "app/Gcam.apk",
+	apk: "app/camera_mgc.apk",
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
